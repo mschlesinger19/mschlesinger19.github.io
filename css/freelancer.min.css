@@ -278,7 +278,7 @@
 }
 
 /* Medium Devices, .visible-md-* */
-@media (min-width: 992px) and (max-width: 1199px) {
+<!--@media (min-width: 992px) and (max-width: 1199px) {
   .timeline > li:nth-child(even) {
     margin-bottom: 0px;
     min-height: 0px;
@@ -320,7 +320,7 @@
   .timeline > li .line {
     display: none;
   }
-}
+}-->
 /* Small Devices, Tablets */
 @media (min-width: 768px) and (max-width: 991px) {
   .timeline > li:nth-child(even) {
